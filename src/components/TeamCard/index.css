@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.li-container {
+  margin-left: 20px;
+}
+.team-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 400px;
+  color: #ffffff;
+  font-size: 18px;
+}
+.team-img-cls {
+  height: 120px;
+  width: 80px;
+}

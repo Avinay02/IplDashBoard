@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.lastest-match-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 700px;
+  background-color: #1e293b;
+}
+.status-left-container {
+  margin-left: 10px;
+  color: white;
+  font-size: 20px;
+}
+.competing-img-cls {
+  height: 50px;
+  width: 50px;
+}
+.status-right-container {
+  margin-right: 10px;
+  color: white;
+  font-size: 20px;
+}
+.heading1 {
+  font-size: 12px;
+  color: white;
+}

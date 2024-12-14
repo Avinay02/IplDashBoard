@@ -1,0 +1,30 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+}
+.main-heading {
+  font-size: 40px;
+  color: white;
+}
+.logo-setting {
+  height: 40px;
+  width: 30px;
+  margin-right: 10px;
+}
+.ul-container {
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

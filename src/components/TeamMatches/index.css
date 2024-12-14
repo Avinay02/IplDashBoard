@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-matches-cls {
+  background-size: cover;
+  height: 100vh;
+  background-image: linear-gradient(#d91c1f, #a4261d);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.teams-img-cls {
+  height: 300px;
+  width: 700px;
+}
+.match-ul-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.components-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
